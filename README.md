@@ -1,13 +1,9 @@
 # Mechanistic insights from high resolution DNA damage analysis to understand mixed high and low linear energy transfer radiation exposure and its therapeutic potential
 
 Each folder contains files from a different experiment. 
-
 The subfolder names indicate the beam quality used to irradiate the cells.
-
 A single file contains normalized TEM photos for one cell.
-
 The files are saved in tif format as stacks of images. 
-
 Each pixel has a positive value stored in four bytes.
 
 It is suggested to open files with ImageJ. Then, for each cell, you can load the corresponding set of ROIs used to analyze the brightness of the surroundings of the foci.
